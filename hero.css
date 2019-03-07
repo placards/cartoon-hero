@@ -1,4 +1,4 @@
-#cent {
+.cent {
     position:absolute;
     top:50%;
     left:50%;
@@ -6,5 +6,24 @@
     margin-left:-100px; /*this is half of width of your div*/
   }
   h1{
-      color: blue
+      color:#9BA053
   }
+  h2{
+    color:#9BA053
+}
+h3{
+    color:#9BA053
+}
+p{
+    color:#539BA0
+}
+li{
+    color:#539BA0
+
+}
+a{
+    color:#A05853
+}
+  body{
+    background-color: #353535;
+    }
