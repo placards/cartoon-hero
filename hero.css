@@ -4,26 +4,33 @@
     left:50%;
     margin-top:-50px; /* this is half the height of your div*/  
     margin-left:-100px; /*this is half of width of your div*/
+    border: 1px solid #ffffff;
+    border-radius: 7px;
+    padding:60px;
   }
   h1{
-      color:#9BA053
+      align-self: auto;
+      font-size:100px;
+      color:#9BA053;
   }
   h2{
-    color:#9BA053
+    color:#9BA053;
 }
 h3{
-    color:#9BA053
+    color:#9BA053;
 }
 p{
-    color:#539BA0
+    color:#539BA0;
 }
 li{
-    color:#539BA0
+    color:#539BA0;
 
 }
 a{
-    color:#A05853
+    color:#A05853;
 }
   body{
     background-color: #353535;
     }
+    
+    
