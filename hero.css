@@ -1,17 +1,15 @@
-.cent {
-    position:absolute;
-    top:50%;
-    left:50%;
-    margin-top:-50px; /* this is half the height of your div*/  
-    margin-left:-100px; /*this is half of width of your div*/
-    border: 1px solid #ffffff;
-    border-radius: 7px;
-    padding:60px;
+
+  header{
+text-align: center;
+
+	background-image:url(Sledge_Head.jpg);
+
   }
   h1{
+    position:  relative;
       align-self: auto;
-      font-size:100px;
-      color:#9BA053;
+      font-size:50px;
+      color:black;
   }
   h2{
     color:#9BA053;
@@ -28,6 +26,16 @@ li{
 }
 a{
     color:#A05853;
+}
+.headpic{
+    height:100%;
+  width: 100%;
+}
+.slp{
+    position:  relative;
+    border-radius:300px;
+    height:20%;
+    width: 20%;
 }
   body{
     background-color: #353535;
