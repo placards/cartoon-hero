@@ -1,3 +1,3 @@
 var switchToDark = function () {
-    alert("asIdo");
+    alert("Hello!");
 }
