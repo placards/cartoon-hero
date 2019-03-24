@@ -1,0 +1,110 @@
+.title {
+    color: #050517;
+    width: 100%;
+    padding-top: 100px;
+    font-size: 100px;
+}
+
+.title.dark {
+    color: #D8DCDE;
+}
+
+.snowflake {
+    text-align: center;
+    width: 100%;
+    background-color: whitesmoke;
+    height: 250px;
+    margin-bottom: 20px;
+    border-bottom: 2px;
+    border-style: solid;
+    color: rgba(128, 128, 128, 0.329);
+
+}
+
+.snowflake.dark {
+    background-color: black;
+    -webkit-box-shadow: 1px 21px 76px -33px rgba(0, 0, 0, 1);
+    -moz-box-shadow: 1px 21px 76px -33px rgba(0, 0, 0, 1);
+    box-shadow: 1px 21px 76px -33px rgba(0, 0, 0, 1);
+}
+
+html {
+    background-color: white;
+}
+
+html.dark {
+    background-color: #1A1B25;
+}
+
+p {
+    padding-left: 10%;
+    width: 100%;
+    font-size: 20px;
+    padding-top: 20px;
+    letter-spacing: 1.2px;
+    line-height: 1.6;
+    color: black;
+}
+
+p.dark {
+    color: aliceblue;
+}
+
+#content {
+    text-align: center;
+    width: 80%;
+}
+
+footer {
+    margin-top: 100px;
+    height: 100px;
+    background-color: whitesmoke;
+    border-top: 2px;
+    border-style: solid;
+    color: rgba(128, 128, 128, 0.329);
+}
+
+footer.dark {
+    background-color: #0F0F15;
+    -webkit-box-shadow: 0px -23px 55px -5px rgba(0, 0, 0, 0.29);
+    -moz-box-shadow: 0px -23px 55px -5px rgba(0, 0, 0, 0.29);
+    box-shadow: 0px -23px 55px -5px rgba(0, 0, 0, 0.29);
+}
+
+button {
+    background-color: white;
+    border: 1px solid rgba(128, 128, 128, 0.329);
+    border-radius: 12px;
+    margin-top: 17px;
+    margin-left: 80px;
+    color: black;
+    padding: 25px 45px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+
+}
+
+button.dark {
+    background-color: #030314;
+    color: white;
+}
+
+#footerText {
+    margin-left: 40%;
+    margin-top: -45px;
+    color: #D8DCDE;
+    font-family: Arial;
+    font-size: 10px;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
+}
