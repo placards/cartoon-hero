@@ -111,10 +111,13 @@ body.dark {
 }
 
 @media (max-width: 600px) {
-    #darkLight {}
+    #darkLight {
+        width: 200px;
+        height: 100px;
+    }
 
     #darkLight.dark {
         width: 200px;
-        length: 100px;
+        height: 100px;
     }
 }
