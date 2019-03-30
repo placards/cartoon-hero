@@ -113,10 +113,10 @@ body.dark {
 @media (max-width: 1000px) {
 
     #darkLight {
-        padding: 500px 500px;
+        padding: 80px 60px;
     }
 
     #darkLight.dark {
-        padding: 500px 500px;
+        padding: 80px 60px;
     }
 }
