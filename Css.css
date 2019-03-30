@@ -109,3 +109,12 @@ body.dark {
     vertical-align: baseline;
     background: transparent;
 }
+
+@media (max-width: 600px) {
+    #darkLight {}
+
+    #darkLight.dark {
+        width: 200px;
+        length: 100px;
+    }
+}
