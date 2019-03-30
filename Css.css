@@ -24,9 +24,6 @@
 #snowflake.dark {
     text-align: center;
     background-color: black;
-    -webkit-box-shadow: 1px 21px 76px -33px rgba(0, 0, 0, 1);
-    -moz-box-shadow: 1px 21px 76px -33px rgba(0, 0, 0, 1);
-    box-shadow: 1px 21px 76px -33px rgba(0, 0, 0, 1);
 }
 
 body {
@@ -67,9 +64,6 @@ body.dark {
 
 #footer.dark {
     background-color: #0F0F15;
-    -webkit-box-shadow: 0px -23px 55px -5px rgba(0, 0, 0, 0.29);
-    -moz-box-shadow: 0px -23px 55px -5px rgba(0, 0, 0, 0.29);
-    box-shadow: 0px -23px 55px -5px rgba(0, 0, 0, 0.29);
 }
 
 #darkLight {
