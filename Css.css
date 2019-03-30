@@ -119,4 +119,8 @@ body.dark {
     #darkLight.dark {
         padding: 80px 60px;
     }
+
+    h1 {
+        font-size: 50px;
+    }
 }
