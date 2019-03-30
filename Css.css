@@ -113,6 +113,8 @@ body.dark {
 @media (max-width: 1000px) {
 
     #darkLight {
+        margin-top: 30px;
+        margin-right: 50%;
         padding: 80px 60px;
     }
 
