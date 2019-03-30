@@ -112,12 +112,10 @@ body.dark {
 
 @media (max-width: 600px) {
     #darkLight {
-        width: 200px;
-        height: 100px;
+        padding: 60px 80px;
     }
 
     #darkLight.dark {
-        width: 200px;
-        height: 100px;
+        padding: 60px 80px;
     }
 }
