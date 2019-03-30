@@ -123,4 +123,15 @@ body.dark {
     h1 {
         font-size: 50px;
     }
+
+    #footer {
+        margin-top: 200px;
+        height: 200px;
+
+    }
+
+    #footer.dark {
+        margin-top: 200px;
+        height: 200px;
+    }
 }
