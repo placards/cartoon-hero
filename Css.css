@@ -1,15 +1,15 @@
-.title {
+#title {
     color: #050517;
     width: 100%;
     padding-top: 100px;
     font-size: 100px;
 }
 
-.title.dark {
+#title.dark {
     color: #D8DCDE;
 }
 
-.snowflake {
+#snowflake {
     text-align: center;
     width: 100%;
     background-color: whitesmoke;
@@ -21,22 +21,23 @@
 
 }
 
-.snowflake.dark {
+#snowflake.dark {
+    text-align: center;
     background-color: black;
     -webkit-box-shadow: 1px 21px 76px -33px rgba(0, 0, 0, 1);
     -moz-box-shadow: 1px 21px 76px -33px rgba(0, 0, 0, 1);
     box-shadow: 1px 21px 76px -33px rgba(0, 0, 0, 1);
 }
 
-html {
+body {
     background-color: white;
 }
 
-html.dark {
+body.dark {
     background-color: #1A1B25;
 }
 
-p {
+#text {
     padding-left: 10%;
     width: 100%;
     font-size: 20px;
@@ -46,7 +47,7 @@ p {
     color: black;
 }
 
-p.dark {
+#text.dark {
     color: aliceblue;
 }
 
@@ -55,7 +56,7 @@ p.dark {
     width: 80%;
 }
 
-footer {
+#footer {
     margin-top: 100px;
     height: 100px;
     background-color: whitesmoke;
@@ -64,14 +65,14 @@ footer {
     color: rgba(128, 128, 128, 0.329);
 }
 
-footer.dark {
+#footer.dark {
     background-color: #0F0F15;
     -webkit-box-shadow: 0px -23px 55px -5px rgba(0, 0, 0, 0.29);
     -moz-box-shadow: 0px -23px 55px -5px rgba(0, 0, 0, 0.29);
     box-shadow: 0px -23px 55px -5px rgba(0, 0, 0, 0.29);
 }
 
-button {
+#darkLight {
     background-color: white;
     border: 1px solid rgba(128, 128, 128, 0.329);
     border-radius: 12px;
@@ -86,7 +87,7 @@ button {
 
 }
 
-button.dark {
+#darkLight.dark {
     background-color: #030314;
     color: white;
 }
